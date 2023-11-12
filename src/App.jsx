@@ -22,7 +22,7 @@ function App() {
         <h1>Carousal 3D</h1>
         <Carousel Data={CarouselData} />
       </div>
-      <div className="togglebtn">
+      {/* <div className="togglebtn">
         <h1>Toggle Btn</h1>
         <ToggleBtnFm IsActive={IsActive} setIsActive={(v) => setIsActive(v)} />
       </div>
@@ -31,7 +31,7 @@ function App() {
       </div>
       <div className="hover3d-wrapper">
       <HoverDiv3D/>
-      </div>
+      </div> */}
 
     </div>
   )
