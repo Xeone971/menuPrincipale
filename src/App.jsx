@@ -1,9 +1,14 @@
 import { useState } from 'react'
 import './App.scss'
+
 import Carousel from './components/Carousal/Carousel'
+import { Svg, getMotionDivToAnimate } from './components/AnimeDebut/main'
 import HoverDiv3D from './components/hoverDiv3d/HoverDiv3D'
 import ToDoList from './components/ToDoList/ToDoList'
 import ToggleBtnFm from './components/ToggleBtn/ToggleBtnFm'
+
+
+
 
 function App() {
   const CarouselData = [
@@ -15,6 +20,8 @@ function App() {
     'https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80',
   ]
   const [IsActive, setIsActive] = useState(true)
+  const [isNodeVisible, setIsNodeVisible] = useState(false);
+  
 
   return (
     <div className="App">
@@ -32,6 +39,12 @@ function App() {
       <div className="hover3d-wrapper">
       <HoverDiv3D/>
       </div> */}
+      
+      <div onClick={() => setIsNodeVisible(!isNodeVisible)}>
+        <Svg />
+      </div>
+      {isNodeVisible ? getMotionDivToAnimate() : null}
+    
 
     </div>
   )
