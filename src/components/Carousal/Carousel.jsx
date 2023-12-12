@@ -6,6 +6,7 @@ import './carousel.scss';
 import './carouCss.css'
 
 const Carousel = ({ Data }) => {
+  document.body.style.backgroundColor = "black";
   const [FlowDirection, setFlowDirection] = useState(true);
   const [CenterId, setCenterId] = useState(0);
   const [LeftId, setLeftId] = useState(Data.length - 1);

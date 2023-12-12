@@ -1,3 +1,7 @@
+.body{
+  background-color: black;
+}
+
 .carousel-wrapper {
   display: grid;
   place-content: center;
@@ -28,6 +32,10 @@
   font-size: 1.2rem; /* Taille du texte */
   overflow: hidden;
 
+.carousel-link{
+  text-decoration: none;
+  color: black;
+}
 
   & > img {
     position: absolute;
