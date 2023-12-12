@@ -1,44 +1,62 @@
 .carousel-wrapper {
-    display: grid;
-    place-content: center;
-    border-radius: 2rem;
+  display: grid;
+  place-content: center;
+  border-radius: 2rem;
+}
 
-  }
-  .carousel-content {
-    position: relative;
-    width: 10rem;
-    height: 10rem;
-  }
-  
-  .carousel-item {
+.carousel-content {
+  position: relative;
+  width: 15rem; /* Ajustez la largeur selon vos besoins */
+  height: 15rem; /* Ajustez la hauteur selon vos besoins */
+}
+
+.carousel-item {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  // padding: 1rem;
+  color: #fff; /* Couleur du texte */
+  font-weight: bold; /* Style du texte */
+  font-size: 1.2rem; /* Taille du texte */
+  overflow: hidden;
+
+
+  & > img {
     position: absolute;
-    width: 10rem;
-    height: 10rem;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border-radius: 10rem;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
   }
-  
-  .carousel-btns {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    z-index: 6;
-  
-    button {
-      padding: 8px 15px;
-      width: 5rem;
-      background-color: rgb(62, 62, 62);
-      border-radius: 1rem;
-      color: #fff;
-      font-weight: 700;
-      letter-spacing: 0.15rem;
-      text-transform: uppercase;
-      cursor: pointer;
-      border: none;
-    }
+}
+
+.carousel-btns {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  z-index: 6;
+
+  button {
+    padding: 8px 15px;
+    width: 5rem;
+    background-color: rgb(62, 62, 62);
+    border-radius: 1rem;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
   }
-  
+}

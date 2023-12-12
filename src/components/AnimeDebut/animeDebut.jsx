@@ -1,6 +1,7 @@
 import * as React from "react";
 import "./styles.css";
 import { useState } from 'react'
+import { useNavigate } from "react-router-dom";
 
 //import { note, circle, square, roundedSquare, trianglePath } from "./path";
 import { motion, useMotionValue, useTransform, animate } from "framer-motion";
@@ -78,4 +79,28 @@ function getMotionDivToAnimate() {
   );
 }
 
-export { Svg, getMotionDivToAnimate };
+  
+const Test = () =>{
+    const [isNodeVisible, setIsNodeVisible] = useState(false);
+    const navigate = useNavigate();
+
+    return (
+        <div className="App">
+      <div onClick={() => {
+        setIsNodeVisible(!isNodeVisible);
+        setTimeout(() => {
+            navigate("/Carou");
+          }, 2500);
+        }}>
+        <Svg />
+      </div>
+      {isNodeVisible ? getMotionDivToAnimate() : null}
+    </div>
+    )
+}
+
+
+      
+
+
+export default Test;
