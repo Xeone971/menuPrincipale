@@ -1,9 +1,13 @@
 import React, { useState, useRef } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
 import { accentsTidy } from './accentsTidy';
+import { useNavigate } from "react-router-dom";
+
 // import circles from "./menu"
 import './carousel.scss';
 import './carouCss.css'
+
+
 
 const Carousel = ({ Data }) => {
   document.body.style.backgroundColor = "black";
@@ -81,6 +85,33 @@ const Carousel = ({ Data }) => {
     }
     // contentRef.current.style.transform = 'translateX(0)';
   };
+  const navigate = useNavigate();
+  const handleAnimationAndRedirect = (text) => {
+    
+  // Code pour lancer l'animation avant la redirection
+  // Par exemple, tu peux utiliser framer-motion pour animer le contenu avant la redirection
+    console.log("handleanimatio,")
+  // Une fois l'animation terminée, tu peux effectuer la redirection vers la nouvelle page
+  // const history = useHistory();
+  const cleanText = accentsTidy(text);
+  // history.push(`/infos/${cleanText}`);
+  
+  setTimeout(() => {
+    navigate(`/infos/${cleanText}`)
+  }, 2500);
+  return (
+    <motion.div
+      className="box3"
+      initial={{ opacity: 1, scale: 1.2 }}
+      animate={{ scale: [1.2, 80], opacity: 1 }}
+      transition={{
+        duration: 1.5,
+        ease: "easeInOut"
+      }}
+    />
+  );
+};
+
 
   // const handleDragStart = (e) => {
   //   setIsDragging(true);
@@ -122,7 +153,7 @@ const Carousel = ({ Data }) => {
       },
     },
     left: {
-      x: '-10rem',
+      x: '-35rem',
       opacity: 1,
       filter: 'brightness(40%)',
       scale: 1,
@@ -136,7 +167,7 @@ const Carousel = ({ Data }) => {
     },
     right: {
       backgroundImage: `url(${Data[RightId]})`,
-      x: '10rem',
+      x: '35rem',
       opacity: 1,
       filter: 'brightness(40%)',
       scale: 1,
@@ -148,12 +179,12 @@ const Carousel = ({ Data }) => {
       },
     },
     rightHidden: {
-      x: '8rem',
+      x: '50rem',
       scale: 0,
       opacity: 0,
     },
     leftHidden: {
-      x: '-8rem',
+      x: '-50rem',
       scale: 0,
       opacity: 0,
     },
@@ -195,11 +226,11 @@ const Carousel = ({ Data }) => {
             // style={{ backgroundImage: `url(${Data[CenterId].image})` }}
           >
             <img src={Data[CenterId].image} alt="" />
-            <a href={`/infos/${accentsTidy(Data[CenterId].text)}`} className="carousel-link">
-              <div className="carousel-overlay">
+            {/* <a href={`/infos/${accentsTidy(Data[CenterId].text)}`} className="carousel-link"> */}
+              <div className="carousel-overlay" onClick={() => handleAnimationAndRedirect(Data[CenterId].text)}>
                 {Data[CenterId].text}
               </div>
-            </a>
+            {/* </a> */}
           </motion.div>
           <motion.div
             key={RightId}
@@ -260,107 +291,107 @@ const Carou = () =>{
   const CarouselData = [
     {
       text: "Blues",
-      image: "https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=662&q=80"
+      image: "../../media/Blues/B.B._King.jpg"
     },
     {
       text: "Chanson française",
-      image: "https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80"
+      image: "../../media/Chanson-francaise/Edith_Piaf.jpg"
     },
     {
       text: "Dubstep",
-      image: "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
+      image: "../../media/Dubstep/Skream.jpg"
     },
     {
       text: "Drum and bass",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Drum_and_bass/pendulum.jpeg"
     },
     {
       text: "Easy listening",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Easy_listening/image.jpg"
     },
     {
       text: "Electronic dance music",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Electronic-dance-music/Avicii.jpg"
     },
     {
       text: "Electronica",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Electronica/Rei-Harakami.jpg"
     },
     {
       text: "Funk",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Funk/James-brown.jpg"
     },
     {
       text: "Heavy metal",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Heavy-metal/Black-Sabbath.jpg"
     },
     {
       text: "Jazz",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Jazz/Louis_Armstrong.jpg"
     },
     {
       text: "Musique classique",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-classique/Mozart.jpg"
     },
     {
       text: "Musique country",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-country/Vernon_Dalhart.jpg"
     },
     {
       text: "Musique électronique",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-electronique/Image1.jpg"
     },
     {
       text: "Musique expérimentale",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-experimentale/Image.jpg"
     },
     {
       text: "Musique folk",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-folk/Namgar.jpg"
     },
     {
       text: "Musique instrumentale",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-instrumentale/Image.jpg"
     },
     {
       text: "Musique latine",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-latine/Image.jpg"
     },
     {
       text: "Musique soul",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-soul/James_Brown.jpg"
     },
     {
       text: "Musiques du monde",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Musique-du-monde/Image.jpg"
     },
     {
       text: "New age",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/New-age/کیتاروی جوان_(Kitaro).jpg"
     },
     {
       text: "Pop",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Pop/The_Beatles_members.jpg"
     },
     {
       text: "Rap",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Rap/Tupac_Shakur.jpg"
     },
     {
       text: "Reggae",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Reggae/Bob_Marley.jpg"
     },
     {
       text: "RnB contemporain",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/RnB-contemporain/Alicia_Keys.jpg"
     },
     {
       text: "Rock",
-      image: "https://picsum.photos/200/300"
+      image: "../../media/Rock/Chuck_Berry.jpg"
     },
     {
-      text: "Teckno",
-      image: "https://picsum.photos/200/300"
+      text: "Tekno",
+      image: "../../media/Tekno/Scooter.jpg"
     }
     // Ajoutez d'autres genres ici avec leurs noms et URLs d'image correspondantes
   ];
@@ -374,7 +405,7 @@ const Carou = () =>{
        transition={{
          duration: 0.2
        }}>
-        <h1>Carousal 3D</h1>
+        {/* <h1>Carousal 3D</h1> */}
         <Carousel Data={CarouselData} />
       </motion.div>
 

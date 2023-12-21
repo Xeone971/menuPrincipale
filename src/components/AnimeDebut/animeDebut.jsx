@@ -31,6 +31,7 @@ const paths = [circle, trianglePath, roundedSquare, note];
 const colors = ["#000000", "#000000", "#000000", "#00cc88"];
 
 function Svg() {
+  document.body.style.backgroundColor = "white";
   const [pathIndex, setPathIndex] = useState(0);
   const progress = useMotionValue(pathIndex);
   const fill = useTransform(progress, paths.map(getIndex), colors);
@@ -68,7 +69,7 @@ function Svg() {
 function getMotionDivToAnimate() {
   return (
     <motion.div
-      className="box"
+      className="box2"
       initial={{ opacity: 1, scale: 1.2 }}
       animate={{ scale: [1.2, 80], opacity: 1 }}
       transition={{

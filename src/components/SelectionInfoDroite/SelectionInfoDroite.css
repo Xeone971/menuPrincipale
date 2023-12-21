@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-modal{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 90vw;
+    height: 90vh;
+    margin: 0 auto;
+    position: relative;   
+    border-radius: 5%;
+}
+
+.container-modal-gauche {
+    display: flex;
+    flex-direction: column;
+    background-color: #DADADA;
+    width: 100%; /* Assurez-vous que la div occupe toute la largeur disponible */
+    overflow-y: scroll; /* Activez la barre de défilement verticale */
+    border-radius: 5% 0 0 5%;
+    padding-bottom: 5%;
+}
+  
+  .container-modal-gauche::-webkit-scrollbar {
+    width: 10px; /* Largeur de la barre de défilement */
+}
+  
+  .container-modal-gauche::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb-color); /* Utilisez la variable CSS personnalisée pour la couleur de la poignée */
+    border-radius: 5%; /* Coins arrondis de la poignée */
+}
+
+/* SelectionInfoDroite.css */
+
+.container-modal-droite {
+    width: 100%;
+    overflow-y: scroll;
+    /* Supprimez "direction: rtl;" */
+    border-radius: 0 5% 5% 0;
+}
+
+.container-modal-droite::-webkit-scrollbar {
+    width: 5%;
+}
+
+.container-modal-droite::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-thumb-color);
+    border-radius: 5%;
+}
+
+.photos {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    }
+
+.croix {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 7%;
+    padding: 2em;
+    cursor: pointer;
+}
+
+.container-info-droite-titre {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin-top: 2em;
+    align-items: center;
+    background: none;
+    border: solid 15px #353535;
+    border-radius: 25px;
+    width: 50%;
+    font-family: "obvia-expanded";
+}
+
+#info-droite-titre {
+    color: #353535;
+    font-size: 3.5em;
+    text-align: center;
+    margin: 0.5em;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+#info-droite-sous-titre {
+    color: #353535;
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: 1000;
+    margin: 5% 0 0 5%;
+    padding: 0;
+    text-align: start;
+    vertical-align: middle;
+    font-family: "obvia-expanded";
+}
+
+#info-droite-texte {
+    color: #353535;
+    font-size: 2.5em;
+    margin-left: 5%;
+    text-align: start;
+    line-height: normal;
+    text-align: justify;
+    margin-top: 1em;
+    padding: 0 4% 0 4%;
+    font-family: "ibm-plex-sans";
+}
+
+.alt {
+    position: absolute;
+    font-size: 1.5em;
+    bottom: 0;
+    right: 0;
+    padding: 1em;
+    z-index: 2;
+    color: #f8f8f8;
+    margin: 0%;
+    margin-right: 1%;
+    font-weight: 1000;
+    text-shadow: 2px 0 #000, -2px 0 #000, 0 2px #000, 0 -2px #000,
+               1px 1px #000, -1px -1px #000, 1px -1px #000, -1px 1px #000;
+} 

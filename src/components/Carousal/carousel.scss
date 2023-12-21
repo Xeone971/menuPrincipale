@@ -10,8 +10,8 @@
 
 .carousel-content {
   position: relative;
-  width: 15rem; /* Ajustez la largeur selon vos besoins */
-  height: 15rem; /* Ajustez la hauteur selon vos besoins */
+  width: 55rem; /* Ajustez la largeur selon vos besoins */
+  height: 55rem; /* Ajustez la hauteur selon vos besoins */
 }
 
 .carousel-item {
@@ -48,8 +48,8 @@
 }
 
 .carousel-btns {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
   display: flex;
   justify-content: center;
   gap: 1rem;
@@ -57,14 +57,36 @@
 
   button {
     padding: 8px 15px;
-    width: 5rem;
+    width: 25rem;
+    height: 5rem;
     background-color: rgb(62, 62, 62);
     border-radius: 1rem;
     color: #fff;
     font-weight: 700;
     letter-spacing: 0.15rem;
+    font-size: 2rem;
     text-transform: uppercase;
     cursor: pointer;
     border: none;
   }
+
+}
+
+.carousel-overlay{
+  font-size: 5rem;
+}
+
+
+.box3 {
+  position: absolute;
+  border-radius: 50%;
+  left: 0;
+  top: 0;
+  width: 3vw;
+  height: 5vh;
+  background: white;
+  z-index: 100;
+
+  // Pour utiliser les variables SCSS :
+  // background: $black; // Assurez-vous que $black est défini dans votre fichier SCSS
 }

@@ -1,0 +1,327 @@
+[
+    {
+      "style": "Blues",
+      "infos": {
+        "titre": "Blues",
+        "photo": ["../../media/Blues/B.B._King.jpg", "../../media/Blues/Bob_Dylan_in_November_1963.jpg", "../../media/blues/Guitare_blues_chicago.jpg", "../../media/blues/Taj_Mahal_(musician).jpg"],
+        "alt": ["B.B. King", "Bob Dylan", "Guitare blues", "Taj Mahal"],
+        "contexte": "Le blues est un genre musical américain qui tire son origine de diverses influences folkloriques, notamment africaines, asiatiques par l'intermédiaire des Amérindiens, et irlandaises. Son usage dans la musique noire américaine remonte au début du XXe siècle, notamment dans le vaudeville, et était déjà courant au XIXe siècle dans les pièces de théâtre mettant en scène des Noirs du Sud des États-Unis. W.C. Handy a joué un rôle important en officialisant le blues avec sa composition 'Memphis Blues' en 1912.",
+        "histoire": "Trente ans après l'abolition de l'esclavage, les negro-spirituals et les chants de travail se mêlent dans le Sud des États-Unis, notamment au Mississippi, en Géorgie et au Texas, rythmant la vie des travailleurs des plantations et des nuits de danse. En parallèle, des minstrel shows apparaissent à la Nouvelle-Orléans et à Memphis, réunissant des artistes noirs. Le blues, qui a ses racines dans le Sud à la fin du XIXe et au début du XXe siècle, est souvent de nature orale et accompagné d'instruments rudimentaires. Les formes plus élaborées émergent dans la région du Delta, entre le Mississippi et la rivière Yazoo. D'autres variantes incluent le 'Fife and drums' dans les collines du Mississippi, avec un fifre en bambou dirigé par Othar Turner, ainsi que des instruments simples comme la guitare acoustique, le piano et l'harmonica. Robert Johnson, légendaire guitariste de blues, est associé à une histoire de pacte avec le diable pour sa virtuosité. D'autres bluesmen comme Tommy Johnson partagent une version similaire. W. C. Handy est l'un des premiers à populariser et à arranger des airs de blues avec des orchestres, et il est l'auteur de morceaux célèbres tels que 'Saint Louis Blues.' Au niveau des paroles, les premiers blues répétaient souvent un vers plusieurs fois. Au début du XXe siècle, la structure 'E/A/B' (Mi/La/Si) devient courante, où un vers est chanté sur les quatre premières mesures, puis répété sur les quatre suivantes, suivi d'un second vers sur les quatre dernières mesures. Un exemple typique est : « Woke up this morning with the Blues down in my soul / Woke up this morning with the Blues down in my soul / My baby gone and left me, got a heart as black as coal ».",
+        "sousGenre": ["Blues traditionnel", "Kansas City blues", "Delta blues", "Chicago blues", "Texas blues", "New York blues", "British blues boom", "Blues rock", "Blues français", "Memphis blues", "West coast blues"],
+        "instrument": ["Typiques", "Guitare", "Batterie", "Chant", "Contrebasse", "Guitare basse", "Harmonica", "Piano", "Saxophone", "Trombone", "Trompette"]
+      }
+    },
+    {
+      "style": "Chanson française",
+      "infos": {
+        "titre": "Chanson française",
+        "photo": ["../../media/Chanson-francaise/Edith_Piaf.jpg", "../../media/Chanson-francaise/Johnny_Hallyday.jpg", "../../media/Chanson-francaise/Dalida_Senigallia.jpg", "../../media/Chanson-francaise/Jean-Jacques_Goldman.jpg", "../../media/Chanson-francaise/Mylene_farmer.jpg", "../../media/Chanson-francaise/Celine_Dion.jpg", "../../media/Chanson-francaise/Stromae.jpg"],
+        "alt": ["Edith Piaf", "Johnny Hallyday", "Dalida", "Jean-Jacques Goldman", "Mylène Farmer", "Céline Dion", "Stromae"],
+        "contexte": "La chanson française a évolué à partir de diverses influences musicales au fil des siècles. Initialement basée sur des éléments du folklore, de la chasse, de la musique militaire, religieuse et classique, elle a connu une transformation significative avec l'avènement des droits d'auteur au xixe siècle et le développement des enregistrements sonores au xxe siècle. Elle a été influencée par divers courants musicaux à la mode, tels que le musette (valse, java, tango), la musique latino-américaine (cha-cha-cha, rumba, mambo, samba, bossa nova), ainsi que des adaptations de succès étrangers (italiens, ibériques, britanniques, slaves, germaniques) et des importations massives de la culture nord-américaine, y compris le jazz (ragtime, charleston, swing), le blues, le gospel, la country, le doo-wop, le rock, le folk, la pop, le disco et le rap.",
+        "histoire": "La chanson française évolue à travers les époques, de la Cantilène de sainte Eulalie du ixe siècle au Carillon de Vendôme du xve siècle. Au début du Moyen Âge, les premières manifestations de la chanson incluent les chants de guerre de l'Empire franc, les chants folkloriques, et les chants choraux, certains ayant des racines pré-chrétiennes. La Chanson de Roland est notable pour son rôle dans la guerre contre les païens. La culture de la chanson au sens restreint débute au haut Moyen Âge, avec les premières chansons de divertissement françaises datant du xiie siècle, notamment les chansons de geste, qui coïncident avec les Croisades. Les troubadours, principalement issus de la chevalerie, développent une forme de chanson courtoise, tandis que dans le Nord de la France, on les appelle trouvères.",
+        "sousGenre": ["Chanson réaliste", "Chanson à texte", "Chanson pop", "Chanson romantique", "Chanson engagée", "Chanson humoristique"],
+        "instrument": ["Accordéon", "Guitare", "Violon", "Flûte", "Piano"]
+      }
+    },
+    {
+      "style": "Dubstep",
+      "infos": {
+        "titre": "Dubstep",
+        "photo": ["../../media/Dubstep/Skream.jpg", "../../media/Dubstep/DJ_Mary_Anne_Hobbs.jpg"],
+        "alt": ["Skream", "DJ Mary Anne Hobbs"],
+        "contexte": "Le dubstep est un genre de musique électronique originaire du sud de Londres, à Croydon, émergé à la fin des années 1990. Il est influencé par divers styles musicaux tels que le 2-step garage, le broken beat, le drum and bass, le jungle, le dub et le reggae, avec des racines remontant aux sound systems jamaïcains des années 1980 au Royaume-Uni. Cette musique se caractérise par un rythme syncopé, des percussions et une ligne de basses, et les premières compositions datent de 1996, souvent en face B des albums 2-step garage. Ces compositions sont marquées par un thème sombre, une approche musicale expérimentale et minimaliste, avec moins d'accent sur les voix et des influences du breakbeat et du drum and bass en 2-step.",
+        "histoire": "Le dubstep trouve ses racines dans les productions d'El-B, Steve Gurley, Oris Jay et Zed Bias en 1999 et 2000. Le terme 'dubstep' a été popularisé vers 2002 par Ammunition Promotions, un label de Drum & Bass qui organisait la boîte de nuit 'Forward>>'. Cette soirée s'est déroulée initialement aux Velvet Rooms de Soho, puis au Plastic People de Shoreditch à Londres. Fondée en 2001, Forward>> a joué un rôle clé dans le développement du dubstep en fournissant un espace dédié à ce genre musical, tout en mêlant des influences de dark garage. Forward>> avait une résidence sur Rinse FM, présentée par Kode9. Les DJ originaux de Forward>> incluaient Hatcha, Youngsta, Kode 9, Zed Bias, Oris Jay, Slaughter Mob, Jay Da Flex, Slimzee, et d'autres, ainsi que des artistes notables du domaine musical. Parmi les résidents ultérieurs, on retrouve Youngsta, Hatcha, Geeneus, et Plastician, avec Crazy D en tant que MC/présentateur. Des producteurs comme D1, Skream et Benga étaient également fréquents. Une autre influence majeure dans les débuts du dubstep est le disquaire Big Apple Records à Croydon. Des musiciens clés comme Hatcha et Skream y ont travaillé, initialement orientés vers la vente d'albums de UK hardcore, techno, house, garage, et drum and bass, avant de s'orienter vers le dubstep naissant. D'autres artistes tels qu'El-B, Zed Bias, Horsepower Productions, Plastician, N Type, et Walsh fréquentaient régulièrement ce magasin, bien qu'il soit désormais fermé.",
+        "sousGenre": ["Brostep", "post-dubstep", "breakstep", "gorestep", "melodic dubstep", "heavy dubstep", "riddim", "deathstep"],
+        "instrument": ["séquenceur", "échantillonneur", "synthétiseur"]
+      }
+    },
+    {
+      "style": "Drum and bass",
+      "infos": {
+        "titre": "Drum and bass",
+        "photo": ["../../media/Drum_and_bass/pendulum.jpeg", "../../media/Drum_and_bass/chase-and-status.jpg", "../../media/Drum_and_bass/Netsky.png"],
+        "alt": ["Pendulum", "Chase and Status", "Netsky"],
+        "contexte": "La drum and bass, également connue sous le nom de DnB, est un genre de musique électronique originaire du Royaume-Uni, apparu vers 1996-1997 à Bristol, marquant la fin de l'ère jungle. Elle se caractérise par un rythme breakbeat, une structure rythmique 2-step et des lignes de basse lourdes à basse fréquence. La mélodie est généralement minimale, mettant l'accent sur les percussions répétitives. Souvent accompagnée de textes rapides et rythmés par un MC, la drum and bass est jouée en clubs et parfois lors de free parties. Elle puise son inspiration dans divers genres musicaux tels que le jazz, le ragga, le funk, la soul, la techno, le hip-hop et même la musique classique, en utilisant des échantillons. Cette diversité sonore permet d'exprimer une large gamme d'émotions, tandis que le tempo oscille généralement entre 160 et 190 BPM. La stabilité du tempo est un élément essentiel pour les DJs. Quelques artistes et labels influents en 2015 étaient Andy C (fondateur du label RAM), Friction (fondateur du label Shogun LTD), London Elektricity (fondateurs du label Hospital), Noisia (fondateurs du label Vision) et Goldie (fondateur de Metalheadz).",
+        "histoire": "La Drum and Bass est un genre musical électronique qui a émergé au Royaume-Uni au début des années 1990, découlant de la scène rave et de la jungle. Elle se caractérise par des rythmes rapides, des lignes de basse puissantes et l'utilisation de breakbeats, ainsi que l'incorporation de samples de divers genres musicaux. Des artistes comme Goldie, LTJ Bukem et Roni Size ont joué un rôle clé dans son développement. La Drum and Bass a évolué en divers sous-genres et reste un pilier de la scène électronique mondiale aujourd'hui.",
+        "sousGenre": ["Drumstep", "breakcore", "darkstep", "darkcore", "drill and bass", "drumfunk", "hardstep", "jazzstep", "jump-up", "liquid funk", "neurofunk", "techstep"],
+        "instrument": ["Synthétiseur", "boîte à rythmes", "séquenceur", "clavier", "sampler", "platine"]
+      }
+    },
+    {
+      "style": "Easy listening",
+      "infos": {
+        "titre": "Easy listening",
+        "photo": ["../../media/Easy_listening/image.jpg"],
+        "alt": [""],
+        "contexte": "L'easy listening est une approche musicale axée sur des mélodies simples et accrocheuses, des chansons douces et élégantes, ainsi que des rythmes adaptés à la danse de salon. C'est davantage une sensibilité musicale qu'un genre précis, englobant des artistes du 20e siècle ainsi que certains associés à la musique électronique.",
+        "histoire": "Easy listening, contrairement à la musique d'ambiance, est une désignation neutre qui englobe divers genres musicaux, y compris le jazz mélodique qualifié de smooth jazz. Des artistes éminents tels que Burt Bacharach sont des figures de proue de ce style, et on trouve des exemples de easy listening dans une variété de genres musicaux. Cependant, certains artistes notables du genre strict d'easy listening, tels que Burt Bacharach, Henry Mancini, Arthur Lyman, et Walter Wanderley, ne sont pas inclus dans cette catégorie.",
+        "sousGenre": ["Lounge", "Exotica", "Space age pop"],
+        "instrument": ["Piano", "saxophone", "orchestre"]
+      }
+    },
+    {
+      "style": "Electronic dance music",
+      "infos": {
+        "titre": "Electronic dance music",
+        "photo": ["../../media/Electronic-dance-music/Avicii.jpg", "../../media/Electronic-dance-music/David-Guetta.jpg", "../../media/Electronic-dance-music/Marshmello.jpg", "../../media/Electronic-dance-music/Skrillex.jpeg"],
+        "alt": ["Avicii", "David Guetta", "Marshmello", "Skrillex"],
+        "contexte": "L'EDM, acronyme pour l'Electronic Dance Music, englobe une diversité de genres électroniques conçus pour la danse et joués principalement en discothèques. Elle est mixée par des DJs qui fusionnent plusieurs chansons lors de mixsets. L'expression 'DM' est un terme en vogue dans l'industrie musicale américaine, équivalant à l'Eurodance en Europe, mais elle englobe en réalité divers sous-genres de musique électronique destinés à la danse.",
+        "histoire": "D'illustres exemples de ce style incluent la collaboration de Giorgio Moroder et de la chanteuse Donna Summer en 1977 pour 'I Feel Love', une chanson dance révolutionnaire sans instruments traditionnels. De plus, Kraftwerk et Yellow Magic Orchestra à la fin des années 1970 et au début des années 1980, ainsi que les genres émergents des années 1980 comme la new wave, l'electro, la house de Chicago et la techno de Détroit, sont également des pionniers de cette variété de musique dance.",
+        "sousGenre": ["House", "Techno", "Trance", "Drum and Bass", "Dubstep", "Electro", "Breakbeat", "Hardcore", "Ambient", "Progressive House"],
+        "instrument": ["Synthétiseurs", "Boîtes à rythmes", "Échantillonneurs", "Claviers MIDI"]
+      }
+    },
+    {
+      "style": "Electronica",
+      "infos": {
+        "titre": "Electronica",
+        "photo": ["../../media/Electronica/Rei-Harakami.jpg", "../../media/Electronica/Ben-Reilly.jpg", "../../media/Electronica/Hachi.webp"],
+        "alt": ["Rei Harakami", "Ben Reilly", "Hachi"],
+        "contexte": "L'electronica, vaste genre musical de musique électronique contemporaine, se distingue de la dance (EDM) car certaines de ses chansons ne visent pas exclusivement à la danse. Sa définition est fluide, variant selon les régions et les époques.",
+        "histoire": "Dans les années 1990 en Amérique du Nord, l'industrie musicale adopte le terme 'electronica' pour décrire divers styles musicaux tels que la techno, le big beat, la drum and bass, le trip hop, le downtempo et l'ambient. Ce terme était à l'origine utilisé par des labels indépendants organisant des raves et des nightclubs 'underground', ainsi que par des labels majeurs pour une diffusion grand public. Cependant, vers la fin des années 2000, l'industrie préfère le terme 'EDM', associé aux festivals de musique électronique populaire post-rave, electro house et dubstep. Malgré cela, 'electronica' est considéré par AllMusic comme un genre de musique entraînant avec une ambiance apaisante, adapté à l'écoute au casque ou dans des espaces de détente. Dans d'autres pays, notamment au Royaume-Uni, 'electronica' est un terme plus général, englobant des styles de musique électronique expérimentaux et downtempo, sans se limiter à la danse.",
+        "sousGenre": ["Indietronica", "trip hop", "art techno"],
+        "instrument": ["Synthétiseur", "boîte à rythmes", "séquenceur", "clavier", "échantillonneur"]
+      }
+    },
+    {
+      "style": "Funk",
+      "infos": {
+        "titre": "Funk",
+        "photo": ["../../media/Funk/James-brown.jpg", "../../media/Funk/Prince.jpg", "../../media/Funk/Rick-James.jpg"],
+        "alt": ["James Brown", "Prince", "Rick James"],
+        "contexte": "Le funk, un genre musical né aux États-Unis dans les années 1960, trouve ses racines dans le hard bop. Le terme 'funk' provient de 'funky', signifiant 'puant' en argot, une insulte historique adressée aux noirs. Il est principalement issu de la soul et du jazz, mettant en avant la section rythmique (guitare, basse, batterie), des cuivres, et des instruments. James Brown est considéré comme le parrain du funk, avec des titres emblématiques tels que 'Say It Loud – I'm Black and I'm Proud.' Cependant, les origines du funk remontent aux années 1950, influencées par les bars de La Nouvelle-Orléans où le piano était l'instrument clé pour créer des rythmiques. Le funk a ensuite évolué dans les rues de la ville grâce aux brass bands avant d'être popularisé par James Brown et Maceo Parker. Comme les musiciens de hard bop, les artistes funk se concentraient sur la section guitare, basse et batterie pour créer un groove flexible, permettant aux vocalistes et instrumentistes de s'exprimer librement.",
+        "histoire": "Le funk, né à la fin des années 1960 avec des artistes emblématiques comme James Brown, a d'abord été associé à la culture afro-américaine. Il a trouvé un public plus large dans les années 1970 grâce à des artistes comme les Commodores, Chic, Kool & The Gang et Earth, Wind and Fire. Plus tard, il a évolué et s'est diversifié. Le funk est un genre musical qui a évolué à travers les décennies. Dans les années 1970, le jazz-funk est né de l'inspiration du funk par des musiciens de jazz, avec des influences de la musique électronique, notamment grâce à des artistes comme Miles Davis, Eumir Deodato, Herbie Hancock, Jeff Beck, Stanley Clarke, Funk Inc., Stevie Wonder, George Benson, Betty Davis, Gwen McCrae, et Patti Austin. Parallèlement, le mouvement P-Funk a émergé avec George Clinton à la tête de groupes comme Parliament et Funkadelic, apportant un mélange psychédélique de funk et de rock, avec des tournées extravagantes et une musique délirante. Dans les années 1970, le disco-funk a fusionné les rythmes disco et les cuivres du funk, avec des artistes tels que Michael Jackson, les frères Jackson, Kool & The Gang, Earth, Wind and Fire, et Chic. La fin des années 1970 a vu l'émergence du hip-hop, avec l'utilisation de platines vinyles, boîtes à rythme, et synthétiseurs, donnant naissance à des groupes comme Sugarhill Gang, Trouble Funk, et Herbie Hancock, marquant la transition entre le funk et le hip-hop. Au début des années 1980, l'arrivée des instruments électroniques a bouleversé le funk, avec des groupes comme Earth, Wind and Fire et Kool & The Gang s'appropriant ces instruments, tandis que de nouveaux artistes et producteurs ont développé une musique plus électronique tout en restant fidèles à l'esprit du funk des années 1970. Dans les années 1990 et 2000, le funk a continué d'influencer la musique, avec de nombreux échantillonnages et breakbeats utilisés dans le hip-hop et le R'n'B. Des artistes tels que Maceo Parker, Fred Wesley, Prince, et le groupe Jamiroquai ont perpétué l'héritage du funk. Au début des années 2000, le modern-funk est apparu en tant que sous-genre, avec des artistes comme Dâm-Funk à sa tête, suivi d'autres labels et artistes en Europe. De nos jours, le funk reste influent, avec des artistes internationaux comme Bruno Mars, Beyoncé, Pharrell Williams, Justin Timberlake, Anderson .Paak, Daft Punk, Thundercat, et Snoop Dogg s'inspirant du funk. Les vinyles funk d'époque sont toujours prisés des collectionneurs, et l'esprit joyeux et positif du funk perdure dans des groupes instrumentaux modernes.",
+        "sousGenre": ["Acid jazz", "disco-funk", "funk metal", "funk rock", "G-funk", "jazz-funk", "P-funk"],
+        "instrument": ["Guitare électrique", "guitare basse", "batterie", "boîte à rythme", "instrument à clavier", "synthétiseur", "cuivres", "congas"]
+      }
+    },
+    {
+      "style": "Gospel",
+      "infos": {
+        "titre": "Gospel",
+        "photo": ["../../media/Gospel/Mahalia-jackson.jpg", "../../media/Gospel/Kanye-west.webp", "../../media/Gospel/Maverick-city-music.jpg"],
+        "alt": ["Mahalia Jackson", "Kanye West", "Maverick City Music"],
+        "contexte": "Le gospel, issu des negro spirituals, est un genre de musique chrétienne avec des voix influencées par la culture, développé simultanément avec le blues primitif et enrichi par des éléments de musique soul, grâce à des artistes contemporains. Il trouve son origine parmi les afro-américains chrétiens évangéliques.",
+        "histoire": "Au XVIIIe siècle, le mot 'gospel' dérive du vieil anglais 'godspell,' signifiant 'évangile,' et est lié au Nouveau Testament, symbolisant la nouvelle naissance, la résurrection et l'émancipation des esclaves. Au XIXe siècle, les esclaves aux États-Unis développent le 'gospel' pour créer des liens communautaires suite à leur désocialisation. Le XIXe siècle voit l'introduction d'instruments musicaux dans les cultes, et les 'gospel hymns' se répandent dans les églises évangéliques. Au XXe siècle, le 'gospel' prend de l'ampleur, en particulier dans les églises baptistes et pentecôtistes afro-américaines, devenant une expression de la souffrance des Noirs émancipés. Il intègre davantage d'instruments et se réfère plus souvent à Jésus-Christ et aux Évangiles que les 'negro spirituals.' Les quartets vocaux deviennent populaires, avec une harmonisation à quatre voix. Les femmes commencent à s'imposer dans le genre après 1945. En 1964, la Gospel Music Association est fondée, et en 1969, les Dove Awards sont créés. Le 'gospel' se diversifie dans d'autres cultures et langues au fil des années, donnant naissance à un 'gospel' francophone dans diverses régions.",
+        "sousGenre": ["Gospel blues", "blues", "musique soul", "a cappella"],
+        "instrument": ["Piano", "guitare", "orgue Hammond", "chant", "xylophone", "harpe", "basse"]
+      }
+    },
+    {
+      "style": "Heavy metal",
+      "infos": {
+        "titre": "Heavy metal",
+        "photo": ["../../media/Heavy-metal/Black-Sabbath.jpg", "../../media/Heavy-metal/Iron-Maiden.jpg", "../../media/Heavy-metal/Ghost.jpg"],
+        "alt": ["Black-Sabbath", "Iron-Maiden", "Ghost"],
+        "contexte": "Le heavy metal, parfois écrit heavy métal en français, est un genre musical dérivé du rock, apparu au Royaume-Uni et aux États-Unis à la fin des années 1960. Ce terme peut avoir différents sens selon le contexte. Il a d'abord été synonyme de hard rock. Ensuite, il désigne le heavy metal traditionnel, se distinguant du hard rock en s'éloignant de ses racines blues. Dans un sens large, le heavy metal ou metal englobe toutes les musiques descendantes de ces genres. Dans cet article, le terme heavy metal est utilisé dans son sens large, également appelé metal. Il a trouvé son inspiration dans des groupes comme Black Sabbath, Deep Purple et Led Zeppelin, qui ont fusionné blues, rock et diverses influences pour créer un son lourd axé sur la batterie et la guitare distordue. Au fil des années, le heavy metal a donné naissance à de nombreux sous-genres et est resté populaire auprès de ses fans à travers le monde.",
+        "histoire": "Le heavy metal, influencé par le rock, la musique classique et le blues, est marqué par des guitares et une batterie dominantes, ainsi qu'une rythmique puissante. Il englobe de nombreux sous-genres avec des variations stylistiques, créant ainsi une grande diversité de sons et de styles au sein de ce genre musical. AllMusic le décrit comme la forme la plus extrême en termes de volume sonore, de machisme et de théâtralité parmi les formes musicales issues du rock 'n' roll.",
+        "sousGenre": ["Metal extrême (black metal, death metal, doom metal, thrash metal)", "glam metal", "groove metal", "heavy metal traditionnel", "metal progressif", "power metal", "speed metal"],
+        "instrument": ["Guitare électrique", "basse", "batterie", "chant", "claviers"]
+      }
+    },
+    {
+      "style": "Jazz",
+      "infos": {
+        "titre": "Jazz",
+        "photo": ["../../media/Jazz/Louis_Armstrong.jpg", "../../media/Jazz/Duke_Ellington.jpg", "../../media/Jazz/Miles_Davis.jpg"],
+        "alt": ["Louis Armstrong", "Duke Ellington", "Miles Davis"],
+        "contexte": "Le jazz, un style musical emblématique, est profondément ancré dans une riche tapestry culturelle. Originaire des profondeurs vibrantes de l'Amérique, il a pris racine dans un terreau d'expression et d'innovation, se développant au carrefour des traditions musicales issues de diverses communautés. Sa nature évolutive a permis l'éclosion de nombreuses variantes, chacune portant la marque de son époque et de ses créateurs. Les performances de jazz, souvent marquées par une spontanéité et une créativité exubérante, reflètent une conversation continue entre les musiciens, où chaque note et rythme contribue à une histoire en constante évolution. Cette forme d'art a traversé les frontières, influençant la musique, le cinéma, et même la mode, laissant une empreinte indélébile sur de nombreux aspects de la culture contemporaine. Les villes à travers le monde célèbrent cet héritage à travers des festivals et des scènes dédiées, où se perpétue l'esprit du jazz, un esprit d'exploration, d'unité et de liberté.",
+        "histoire": "Le jazz est un genre musical américain né dans le Sud des États-Unis à la fin du XIXe et au début du XXe siècle, créé par les Afro-Américains. Il englobe divers sous-genres influencés par la musique afro-américaine et euro-américaine. Le jazz a émergé de genres tels que le ragtime, la marche, le negro spiritual et le blues, caractérisé par l'improvisation, la polyrythmie, la syncope et d'autres éléments. Il a évolué au fil des décennies, se diversifiant en swing, jazz manouche, bebop, cool jazz, free jazz, hard bop, jazz modal, jazz fusion et smooth jazz. Les musiciens de jazz jouent dans des formations appelées jazz bands. Des artistes majeurs incluent Louis Armstrong, Duke Ellington, Miles Davis, John Coltrane, Billie Holiday, et bien d'autres. Le jazz a également eu un impact important sur le cinéma, notamment avec des réalisateurs comme Martin Scorsese et Woody Allen. De nos jours, New York est considérée comme la capitale mondiale du jazz, mais des festivals de jazz majeurs ont vu le jour dans le monde entier, tels que Montreux, Montréal, Marciac et Copenhague.",
+        "sousGenre": ["Acid jazz", "afrobeat", "avant-garde jazz", "bebop", "Chicago Jazz", "cool jazz", "dixieland", "éthio-jazz", "ethno-jazz", "free jazz", "hard bop", "jazz afro-cubain", "jazz fusion", "jazz manouche", "jazz modal"],
+        "instrument": ["Saxophone", "trompette", "trombone", "clarinette", "piano", "contrebasse", "guitare basse", "batterie", "guitare", "guitare électrique", "chant", "flûte", "vibraphone", "orgue Hammond", "violon", "tuba", "bugle", "cornet à pistons", "xylophone"]
+      }
+    },
+    {
+      "style": "Musique classique",
+      "infos": {
+        "titre": "Musique classique",
+        "photo": ["../../media/Musique-classique/Mozart.jpg", "../../media/Musique-classique/Franz_Liszt.jpg"],
+        "alt": ["Mozart", "Franz Liszt"],
+        "contexte": "La musique classique, un pilier de la tradition musicale occidentale, tire ses racines de l'Europe et s'est épanouie à travers diverses époques. Caractérisée par sa complexité structurelle et sa sophistication technique, elle englobe un vaste éventail de styles, de la musique sacrée médiévale à la musique profane moderne. L'orchestre symphonique, l'opéra, et le conservatoire sont des institutions clés qui ont joué un rôle essentiel dans la préservation de ce patrimoine musical.",
+        "histoire": "L'histoire de la musique classique est un voyage riche et diversifié qui débute au Moyen Âge avec le chant grégorien et la naissance de la musique écrite. Pendant la Renaissance, l'expansion de la polyphonie et la musique profane enrichissent le répertoire. La période baroque, avec ses harmonies complexes et l'avènement de l'opéra, voit des compositeurs tels que Bach et Vivaldi innover dans la forme musicale. Le classicisme, porté par des maîtres comme Mozart et Beethoven, se caractérise par une structure équilibrée et une expression émotionnelle plus profonde. La période romantique, avec des figures comme Chopin, accentue cette expressivité, explorant des thèmes passionnés et élargissant les capacités de l'orchestre. Au XXe siècle et au-delà, la musique classique se transforme radicalement avec une diversité de styles et d'expérimentations. Des compositeurs comme Debussy et Stravinsky remettent en question les conventions, fusionnant les influences traditionnelles et modernes. Chaque époque a contribué à l'évolution continue de la musique classique, un genre qui se redéfinit constamment, reflétant les changements culturels et artistiques à travers le temps.",
+        "sousGenre": ["Baroque", "Classique", "Romantique", "Moderne", "Contemporain"],
+        "instrument": ["Orchestre symphonique", "violon", "piano", "flûte", "violoncelle"]
+      }
+    },
+    {
+      "style": "Musique country",
+      "infos": {
+        "titre": "Musique country",
+        "photo": ["../../media/Musique-country/Vernon_Dalhart.jpg", "../../media/Musique-country/Tex_Fletcher.jpg", "../../media/Musique-country/Neil_Young.jpg", "../../media/Musique-country/Willie_Nelson.jpg"],
+        "alt": ["Vernon Dalhart", "Tex Fletcher", "Neil Young", "Willie Nelson"],
+        "contexte": "La musique country est un genre musical fusionnant des influences traditionnelles du sud-est des États-Unis, des provinces maritimes du Canada, de l'Europe (notamment Irlande et Pays-Bas), et d'autres pays comme l'Australie. Ses racines sont variées, mêlant des éléments folkloriques européens, la musique chrétienne, le gospel noir, le yodel suisse allemand, et une gamme d'instruments tels que la mandoline, la lap-steel hawaïenne et le banjo africain. On la qualifie parfois de 'blues des blancs' en raison de ses origines partagées entre musiciens noirs et blancs. Elle a également influencé le rock et d'autres genres musicaux. La musique country a une vaste base de fans, en particulier aux États-Unis, au Canada et en Australie, ainsi qu'en Europe, notamment en Irlande, dans les pays scandinaves et en Allemagne. Nashville, Tennessee, est le centre emblématique de la musique country, surnommée 'Music-City' en raison de ses nombreux studios d'enregistrement et de ses musiciens de qualité. Le Grand Ole Opry de Nashville reste un objectif majeur pour les artistes country, et des festivals de musique et de danse country sont organisés dans le monde entier.",
+        "histoire": "Aux XVIIe et XVIIIe siècles, des immigrants européens arrivent en Amérique du Nord avec leur culture et leurs instruments musicaux, formant diverses communautés. Au XIXe siècle, ces communautés fusionnent leurs influences, donnant naissance à une musique unique dans les Appalaches. Le Texas devient un centre de développement pour la musique country grâce à des interactions entre différents groupes ethniques. Dans les années 1920, des enregistrements commerciaux marquent le début de la reconnaissance de la musique country. Les années 1930 et 1940 voient la popularisation de cette musique grâce aux 'Singing Cowboys' du cinéma. Les années 1950 introduisent le 'Nashville sound', un son plus commercial. La musique country évolue avec le 'country soul' et le 'Bakersfield sound'. Dans les années 1970, les 'Outlaws' cherchent à se démarquer du Nashville Sound. Les années 1990 voient l'émergence du 'new country' avec des artistes comme Garth Brooks et les Dixie Chicks. Les années 2000 et 2010 voient des artistes de rock et de pop s'essayer à la musique country, tandis que des artistes comme Carrie Underwood remportent des Grammy Awards et contribuent à populariser le genre.",
+        "sousGenre": ["Bluegrass", "Country pop", "Country rock", "Honky-tonk", "Outlaw country", "Texas country", "Western swing"],
+        "instrument": ["Guitare acoustique", "violon", "steel guitar", "banjo", "harmonica", "mandoline"]
+      }
+    },
+    {
+      "style": "Musique electronique",
+      "infos": {
+        "titre": "Musique électronique",
+        "photo": ["../../media/Musique-electronique/Image1.jpg", "../../media/Musique-electronique/Image2.jpg"],
+        "alt": [""],
+        "contexte": "La musique électronique, créée dans les années 1950, repose sur des générateurs de sons synthétiques et des enregistrements sur bande magnétique. Elle permet aux compositeurs de manipuler les sons, notamment en utilisant des boucles superposées. À l'époque, elle se distinguait de la musique pour bande de Pierre Schaeffer, appelée musique concrète, car elle ne se basait pas sur des matériaux spécifiques, mais plutôt sur la manipulation des sons électroniques.",
+        "histoire": "Depuis la fin du xixe siècle, les compositeurs cherchent à créer des instruments électriques et électroniques. Cette quête a abouti à des instruments tels que l'electromusical piano, la harpe électrique, le singing arc, le telharmonium, l'ætherophone et l’électrophon. En musique électronique, des studios dédiés ont vu le jour dans les années 1950 en Europe et aux États-Unis. Karlheinz Stockhausen a joué un rôle majeur dans le développement de la musique électroacoustique. Les années 1960 ont vu l'émergence de synthétiseurs plus accessibles, comme le Buchla, le Moog, et le Synket. Les années 1970 et 1980 ont été marquées par des avancées dans les instruments électroniques, passant des synthétiseurs analogiques aux numériques et aux sampleurs. Cela a donné naissance à de nouveaux genres musicaux, tels que la musique industrielle, la musique électronique bruitiste, l'electronic body music, et le dub électronique. Les années 1990 ont été le berceau de la musique house, techno et electro, avec des artistes tels que Aphex Twin, Daft Punk et Radiohead. La techno hardcore a également émergé aux Pays-Bas et en Allemagne. Les années 2000 ont vu la généralisation des échantillonneurs et la démocratisation des home-studios, permettant une diversification des sons électroniques dans la musique populaire.",
+        "sousGenre": ["House", "Techno", "Trance", "Drum and Bass", "Dubstep", "Breakbeat", "Hardcore", "Ambient", "Acid", "Electro", "Progressive", "Minimal", "Garage", "Synthwave", "IDM (Intelligent Dance Music)", "Jungle", "Hardstyle", "Gabber", "Psytrance", "Chillout"],
+        "instrument": ["Synthétiseurs", "boîtes à rythmes", "échantillonneurs", "séquenceurs", "drum machines", "vocodeurs", "contrôleurs MIDI"]
+      }
+    },
+    {
+      "style": "Musique experimentale",
+      "infos": {
+        "titre": "Musique expérimentale",
+        "photo": ["../../media/Musique-experimentale/Image.jpg"],
+        "alt": [""],
+        "contexte": "La musique expérimentale désigne les pratiques musicales innovantes, où les artistes cherchent à repousser les limites de la composition, de la performance, et de l'écoute. Elle se caractérise par une exploration audacieuse de nouveaux territoires sonores, en intégrant des techniques non conventionnelles, de nouveaux instruments, et des influences interdisciplinaires. Ce genre est souvent associé à une démarche intellectuelle et artistique, privilégiant la recherche de nouvelles expressions sonores.",
+        "histoire": "L'histoire de la musique expérimentale commence au début du 20e siècle avec des figures comme Arnold Schoenberg et John Cage, qui ont remis en question les conventions musicales. Schoenberg a introduit la musique atonale et la méthode dodécaphonique, tandis que Cage a utilisé l'aléatoire et des techniques innovantes. Dans les années 1950 et 1960, la musique électronique et concrète a pris de l'ampleur grâce à des compositeurs comme Karlheinz Stockhausen et Pierre Schaeffer. Le minimalisme, avec des artistes tels que Steve Reich et Philip Glass, a également marqué cette période. Depuis, la musique expérimentale a continué d'évoluer, restant un champ dynamique et en constante évolution, influencé par les avancées technologiques et les courants artistiques contemporains.",
+        "sousGenre": ["Musique concrète", "Ambient", "Glitch", "Musique bruitiste", "Acousmatique", "Improvisation libre", "Électroacoustique", "Minimalisme", "Art sonore", "Musique électronique expérimentale"],
+        "instrument": ["Synthétiseurs", "Bandes magnétiques", "Ordinateurs", "Électronique"]
+      }
+    },
+    {
+      "style": "Musique folk",
+      "infos": {
+        "titre": "Musique folk",
+        "photo": ["../../media/Musique-folk/Namgar.jpg"],
+        "alt": ["Namgar"],
+        "contexte": "La musique folk, originaire des États-Unis, englobe divers genres musicaux issus de la musique traditionnelle du début du xxe siècle. À l'origine, le terme « folk » désignait la musique populaire traditionnelle, mais au milieu du xxe siècle, elle évolua vers une forme plus populaire, atteignant son apogée de popularité dans les années 1960. Cette nouvelle forme est connue sous le nom de « musique folk contemporaine » ou « folk revival music » en anglais, et comprend des genres fusion tels que le folk rock et l'electric folk.",
+        "histoire": "Depuis les années 1990, la 'musique du monde' ou 'world music' a émergé grâce à l'intérêt croissant pour les musiques autochtones. Les prémices de ce mouvement remontent aux années 1950 et 1960 avec des échanges culturels entre différentes régions. En France, le mouvement folk a débuté en 1964 et s'est rapidement développé, combinant musique, aspect social et engagement politique. Aux États-Unis, le mouvement folk a évolué dans les années 1960, incorporant des éléments du rock tout en maintenant un engagement social et politique. Au Canada, la musique folk reste populaire, en particulier dans les prairies de l'Ouest. En France, le folk rock a émergé dans les années 1970, mêlant des instruments traditionnels à des éléments rock. De plus, le métissage musical a joué un rôle clé, avec des artistes comme Hugues Aufray intégrant des influences latines et andines. Le mouvement folk européen a donné naissance à des sous-genres comme le folk metal. Aujourd'hui, la musique folk conserve sa vitalité en France, avec des bals folk et des fest-noz organisés régulièrement.",
+        "sousGenre": ["Folk progressive", "bluegrass", "nerd-folk"],
+        "instrument": ["Guitare"]
+      }
+    },
+    {
+      "style": "Musique instrumentale",
+      "infos": {
+        "titre": "Musique instrumentale",
+        "photo": ["../../media/Musique-instrumentale/Image.jpg"],
+        "alt": [""],
+        "contexte": "La musique instrumentale caractérise toute musique exclusivement destinée à des instruments. Ce concept s'oppose donc à celui de musique vocale, ceci à cause du traitement particulier habituellement réservé à la voix.",
+        "histoire": "La musique instrumentale est un genre musical qui se distingue par son absence de chant humain, privilégiant plutôt l'expression musicale par le biais d'instruments. Son histoire est riche, s'étendant sur des siècles et traversant diverses cultures. Des compositeurs renommés tels que Beethoven et Mozart ont contribué à son évolution. Au fil des époques et des mouvements musicaux, la musique instrumentale a évolué, passant par le baroque, le classique, le romantique et le contemporain. Elle a également donné naissance à divers styles, du classique au jazz, au rock instrumental, à la musique électronique et à l'ambient. Aujourd'hui, la musique instrumentale continue d'explorer de nouvelles frontières sonores, créant ainsi des expériences musicales uniques et demeurant un moyen puissant d'exprimer des émotions et des histoires sans recourir à la parole.",
+        "sousGenre": ["Jazz", "Classique", "Blues", "Rock", "Country", "Flamenco", "Reggae", "Folk", "Musique électronique", "New Age", "Ambient", "Hip-hop", "Rap", "Metal", "World", "Funk", "R&B", "Pop", "Soul", "Blues", "Reggae", "Latin", "Techno", "House", "Dubstep", "Trance", "Drum and Bass", "Trap", "Hardcore", "Chillout", "Disco", "Dancehall", "Ska", "Ambient", "Post-Rock"],
+        "instrument": ["Guitare", "piano", "violon", "flûte", "trompette", "saxophone", "batterie", "contrebasse", "clarinette", "harmonica"]
+      }
+    },
+    {
+      "style": "Musique latine",
+      "infos": {
+        "titre": "Musique latine",
+        "photo": ["../../media/Musique-latine/Image.jpg"],
+        "alt": [""],
+        "contexte": "La musique latine, un style musical diversifié d'Amérique latine, englobe des rythmes variés, reflétant les cultures et le métissage du continent. Elle accompagne les danses populaires et s'inspire des sons préhispaniques et africains. L'espagnol, un style de musique latino, se caractérise par des paroles composées en dix lignes de huit syllabes chacune. L'influence de la musique africaine est également fondamentale dans les rythmes latins, tels que les fêtes cubaines, la marimba, la samba brésilienne et la musique andine.",
+        "histoire": "La musique latine est un genre diversifié originaire d'Amérique latine, mêlant les influences indigènes, africaines et européennes. Elle accompagne les danses populaires et se caractérise par des rythmes variés. L'espagnol est souvent utilisé pour les paroles, composées en décasyllabes. Les influences africaines sont essentielles, contribuant à des styles uniques comme la samba brésilienne et la musique cubaine. Les régions d'Amérique latine ont leurs propres rythmes et instruments distinctifs, tels que la marimba en Amérique centrale et la musique andine dans les Andes. La musique latine continue d'évoluer, fusionnant avec d'autres genres pour créer de nouvelles expressions musicales. Elle reste un élément culturel majeur de la région.",
+        "sousGenre": ["la salsa", "la bachata", "la cumbia", "la merengue", "le reggaeton", "le tango", "la bossa nova", "le boléro", "la musique andine", "le vallenato", "le mariachi", "le samba", "le flamenco", "le cha-cha-cha", "le son cubain", "la musique de danzón", "la música ranchera", "le fado"],
+        "instrument": ["Guitare", "Congas", "Bongos", "Trompette", "Accordéon", "Maracas", "Tres", "Clave", "Tumbadora", "Timbales", "Quena", "Charango", "Cuatro", "Güiro"]
+      }
+    },
+    {
+      "style": "Musique soul",
+      "infos": {
+        "titre": "Musique soul",
+        "photo": ["../../media/Musique-soul/James_Brown.jpg", "../../media/Musique-soul/Aretha_franklin.jpg"],
+        "alt": ["James Brown", "Aretha Franklin"],
+        "contexte": "La musique soul, populaire aux États-Unis depuis la fin des années 1950, trouve ses racines dans le gospel et le rhythm and blues, constituant ainsi un retour aux origines du rhythm and blues, notamment le gospel.",
+        "histoire": "La soul music, issue de la musique noire américaine, trouve son origine dans les albums de Ray Charles au milieu du 20e siècle. Elle mélange le gospel avec le rhythm and blues, créant ainsi une musique profonde, souvent marquée par des thèmes sexuels. La soul puise ses racines dans le pop, le gospel et le negro spiritual. Elle devient un mouvement de protestation pour la jeunesse noire, en réaction au rock 'n' roll envahissant. Dans les années 1950, des labels cherchent à commercialiser la musique noire pour un public blanc, avec Stax et Tamla Motown en tête. La soul est également marquée par des figures influentes comme Berry Gordy et Jim Stewart, qui dirigent respectivement Motown et Stax. Les années 1960 voient l'explosion de la soul, avec des artistes comme James Brown et Curtis Mayfield introduisant des rythmes syncopés et donnant naissance au funk. La latin soul émerge également à New York en 1966. Les années 1970 voient la production d'albums emblématiques, mais la soul décline face à la montée du disco. Cependant, de nouveaux artistes comme Michael Jackson, Prince et Luther Vandross ravivent le genre. Le rap samplera des classiques de la soul, contribuant à sa popularité, et fusionnant par la suite avec la soul pour donner naissance au new jack swing et au neo soul dans les années 1990. Des artistes tels que D'Angelo, Erykah Badu et Maxwell sont à l'origine de ce mouvement.",
+        "sousGenre": ["Blue-eyed soul", "boogaloo", "northern soul", "Philadelphia soul", "soul blues", "soul psychédélique"],
+        "instrument": ["Chant", "basse", "batterie", "synthétiseur", "guitare électrique", "piano", "orgue"]
+      }
+    },
+    {
+      "style": "Musiques du monde",
+      "infos": {
+        "titre": "Musiques du monde",
+        "photo": ["../../media/Musique-du-monde/Image.jpg"],
+        "alt": [""],
+        "contexte": "La 'musique du monde' est un terme générique englobant les musiques qui diffèrent des courants musicaux occidentaux dominants tels que la pop, le rock, la musique classique, le jazz, le rap et la musique électronique, et qui intègrent des éléments ethniques ou traditionnels. Par exemple, la musique bretonne et basque sont considérées comme des musiques traditionnelles régionales. Le pluriel 'musiques' est préféré au singulier 'musique' pour refléter la diversité des cultures du monde et de leurs expressions musicales. Le terme 'musique du monde' peut soit désigner une partie de ces musiques (comme la musique du monde arabe), soit une tendance musicale récente qui fusionne différents genres ou styles, et serait alors plus précisément traduit par 'world music'.",
+        "histoire": "Depuis les années 1960, le terme 'world music' est utilisé pour désigner les musiques traditionnelles propres à chaque pays, qu'elles soient 'classiques', 'savantes' ou 'folkloriques'. Dans les années 1980, des artistes occidentaux tels que Peter Gabriel, Paul Simon et Sting ont intégré des éléments de musique non occidentale à leurs répertoires. Le terme 'musique du monde' a également été utilisé pour décrire les musiques résultant d'un métissage culturel de diverses influences, combinant des éléments de cultures traditionnelles avec des courants musicaux occidentaux. Cette musique a commencé à émerger dès les années 1960, parfois sous d'autres noms comme 'ethno-jazz' ou 'musique ethnique'. D'autres expressions telles que 'global sound', 'ethno pop', 'world beat', 'world fusion', 'global fusion' et 'transmusic' ont également vu le jour dans les années 1980. En 1985, le concept marketing de 'world music' a été créé pour décrire la musique occidentale empruntant des éléments musicaux à diverses cultures du monde. Cela a parfois entraîné de la confusion, car des artistes traditionnels coexistent avec ceux influencés par la mondialisation. Les genres ne sont pas exclusifs et sont souvent pratiqués par les mêmes artistes. La classification de la musique française de variétés ou de rock en tant que 'world music' dans certains pays, comme les États-Unis, est due à une méconnaissance de l'Europe en tant qu'entité culturelle. En français, le terme 'sono mondiale' ou 'musiques du monde' est souvent utilisé pour décrire les musiques non occidentales, qu'elles soient savantes ou populaires. Depuis la dernière décennie du XXe siècle, le terme 'world music' englobe également les musiques purement traditionnelles.",
+        "sousGenre": ["Ethno-jazz", "musique ethnique", "folk rock", "global sound", "ethno pop", "world beat", "world fusion", "global fusion", "transmusic", "sono mondiale"],
+        "instrument": ["Djembe", "Sitar", "Didgeridoo", "Tabla", "Kora", "Bouzouki", "Balalaika", "Shamisen", "Oud", "Bansuri"]
+      }
+    },
+    {
+      "style": "New age",
+      "infos": {
+        "titre": "New age",
+        "photo": ["../../media/New-age/کیتاروی جوان_(Kitaro).jpg"],
+        "alt": ["کیتاروی جوان (Kitaro)"],
+        "contexte": "La new age est un genre musical lié à l'environnementalisme et à la spiritualité, créant une ambiance relaxante. Elle est souvent jouée lors de séances de yoga, de massage et de méditation pour une atmosphère apaisante. Les morceaux intègrent des harmonies avec une basse bourdon et des sons de la nature. La new age peut être électronique avec des synthétiseurs ou acoustique avec des instruments tels que la flute, le piano et la guitare. Les chants sont rares, mais parfois inspirés par les natifs américains ou les tibétains. Les limites de ce genre musical sont floues, et divers termes sont utilisés pour le catégoriser.",
+        "histoire": "La musique new age trouve son inspiration chez divers artistes de genres variés, mélangeant des styles électroniques, expérimentaux et acoustiques depuis les années 1970. Des compositeurs tels que Michel PEPE, Stephen SICARD, Damien DUBOIS et Jean Marc STAEHLE ont contribué à sa renommée internationale dans les années 1990 et 2000. Déjà dans les années 60 et 70, des albums de musique asiatique et celtique peuvent être qualifiés de 'New Age'. Des musiciens comme Tony Scott, Paul Horn, Ravi Shankar ont fusionné des éléments de musique occidentale moderne avec des traditions spirituelles occidentales ou orientales. Des albums pionniers comme 'Environments' d'Irv Teibel en 1969-1979 utilisaient des sons naturels. En 1973, Ash Ra Tempel et Mike Oldfield ont marqué le genre, tout comme 'Spectrum Suite' de Steven Halpern en 1975, axé sur la spiritualité indienne. La popularité de la musique new age a grandi dans les années 70 grâce à de petits labels indépendants et des boutiques spécialisées. Des artistes variés, tels que Stevie Wonder en 1979, ont contribué à son développement. En 1985, des rayons new age ont été ajoutés dans les magasins, les labels majeurs s'y intéressent, et les radios ont commencé à diffuser ce genre en 1987. En 1989, plus de 150 petits labels indépendants se sont spécialisés dans la musique new age.",
+        "sousGenre": ["Post-rock", "trance"],
+        "instrument": ["Piano", "synthétiseur", "échantillonneur", "séquenceur", "instruments à cordes", "bruits de fond", "instruments folk", "guitare acoustique", "guitare électrique", "batterie", "flute", "harpe", "sitar", "tambour", "tabla"]
+      }
+    },
+    {
+      "style": "Pop",
+      "infos": {
+        "titre": "Pop",
+        "photo": ["../../media/Pop/The_Beatles_members.jpg", "../../media/Pop/Michael_Jackson.jpg", "../../media/Pop/Madonna.jpg", "../../media/Pop/Britney_Spears.jpg"],
+        "alt": ["The Beatles", "Michael Jackson", "Madonna", "Britney Spears"],
+        "contexte": "La pop, apparue dans les années 1960 au Royaume-Uni et aux États-Unis, est un genre musical axé sur l'amour et la danse. Elle privilégie des mélodies accrocheuses, de courtes chansons, et a été influencée par des techniques d'enregistrement et de synthèse. Son expansion est associée à l'américanisation et à la mondialisation culturelle, suscitant des débats sur son statut artistique. Au fil des décennies, la pop a évolué dans diverses scènes, qu'elles soient grand public, indépendantes ou artistiques.",
+        "histoire": "La pop music, née dans les années 1950, a été façonnée par l'industrie pour s'adresser aux adolescents en leur offrant des clubs, des vêtements, des motos, des œuvres d'art et de la musique. Elle a puisé dans divers genres musicaux, devenant une fusion de styles tels que le rhythm and blues, le jazz, le folk, la soul, et bien d'autres. L'instrumentation de la pop est variée, allant des instruments rock de base aux orchestres symphoniques, en passant par les claviers et les technologies d'enregistrement. La pop a évolué vers une rythmique dansante grâce à l'électronique et aux effets sonores, influencée par le courant new wave des années 1980. Ce qui distingue la pop, c'est son accessibilité au grand public grâce à la diffusion radio, influençant son tempo, sa durée, son style mélodique, sa texture soyeuse, ses refrains immédiats et ses paroles apparemment inoffensives. Dans les années 1990, la Britpop a réintroduit la guitare électrique, tandis que les boys bands et les chanteuses à voix comme Céline Dion ont connu un grand succès. Au XXIe siècle, des artistes solo tels que Beyoncé, Lady Gaga, Bruno Mars et bien d'autres ont pris le devant de la scène, marquant l'évolution continue de la musique pop.",
+        "sousGenre": ["Pop baroque", "dance-pop", "Europop", "indie pop", "jangle pop", "pop psychédélique", "power pop", "synthpop", "sunshine pop", "teen pop", "Britpop", "country pop", "girl group", "J-pop", "K-pop", "C-pop", "T-pop", "pop latino", "pop rock", "pop punk", "pop metal", "pop alternative", "art pop", "pop expérimentale", "avant-pop", "afropop", "pop progressive", "emo pop"],
+        "instrument": ["Guitare électrique"," guitare basse", "batterie", "guitare acoustique", "piano", "synthétiseur", "boîte à rythmes", "séquenceur musical", "échantillonneur"]
+      }
+    },
+    {
+      "style": "Rap",
+      "infos": {
+        "titre": "Rap",
+        "photo": ["../../media/Rap/Tupac_Shakur.jpg", "../../media/Rap/Dr-Dre.webp", "../../media/Rap/Snoop_Dogg.jpg", "../../media/Rap/Eminem.jpg"],
+        "alt": ["Tupac Shakur", "Dr. Dre", "Snoop Dogg", "Eminem"],
+        "contexte": "Le genre musical du rap est né dans les années 1970 aux États-Unis en tant que composante du mouvement hip-hop. Il se distingue par ses paroles rythmées et ses rimes percutantes, qui sont utilisées pour transmettre des messages sociaux, exprimer des points de vue personnels ou simplement pour l'expression artistique. Le rap s'est rapidement répandu à l'échelle mondiale à partir des années 1980, devenant un phénomène culturel majeur. Les chansons de rap sont généralement structurées en couplets et refrains, empruntant des éléments à divers genres musicaux pour créer une fusion unique de styles. En France, l'évolution du rap peut être divisée en trois grandes ères. Tout d'abord, la période classique, qui s'étend de la fin des années 1980 au début des années 2000, a vu émerger des artistes emblématiques et la consolidation du genre dans la culture musicale française. Ensuite, la période de démocratisation du rap dans les années 2000 a permis à un plus large public de découvrir et d'apprécier ce style musical. Enfin, à partir des années 2010, le rap français a connu une période d'innovation, marquée par la diversification des sous-genres et des approches artistiques, contribuant ainsi à l'enrichissement continu de cette forme d'expression musicale. Cette évolution témoigne de la vitalité et de la créativité du genre rap à travers les décennies.",
+        "histoire": "Le rap, issu du hip-hop et apparu dans les années 1970 aux États-Unis, est un mouvement musical et culturel caractérisé par des paroles rythmées et des rimes. Il sert à exprimer des idées sociales ou des egotrips. Il s'est répandu mondialement à partir des années 1980. Les morceaux de rap se composent généralement de couplets entrecoupés de refrains et ont été influencés par divers genres musicaux. En France, le rap a évolué en trois ères : la période classique (fin des années 1980 au début des années 2000), la période de démocratisation (années 2000) et une période d'innovations à partir des années 2010, marquant la diversification du genre.",
+        "sousGenre": ["Trap", "Drill", "Gangsta rap", "Hip-hop conscient", "Rap hardcore", "Rap expérimental", "Rap alternatif", "Rap lyrique", "Rap comique", "Rap politique", "Rap hybride"],
+        "instrument": ["Boîte à rythmes", "échantillonneurs", "synthétiseurs", "platines", "basse électrique", "batterie", "claviers", "guitare électrique (occasionnellement)"]
+      }
+    },
+    {
+      "style": "Reggae",
+      "infos": {
+        "titre": "Reggae",
+        "photo": ["../../media/Reggae/Bob_Marley.jpg","../../media/Reggae/Bunny_Wailer.jpg", "../../media/Reggae/Peter_Tosh.jpg"],
+        "alt": ["Bob Marley", "Bunny Wailer", "Peter Tosh"],
+        "contexte": "Le reggae, originaire de Jamaïque dans les années 1960, émerge du ska et du rocksteady. Il tient son nom d'une chanson de Toots and the Maytals intitulée 'Do the Reggay' (1967). Popularisé mondialement dans les années 1970 grâce à Bob Marley, le reggae incarne une culture distincte, abordant des thèmes politiques et sociaux, souvent associés à l'oppression. Bien qu'associé au mouvement rastafari, il ne lui est pas exclusif et suscite des opinions variées parmi ses adeptes. Le reggae s'est internationalisé, accueillant des artistes de diverses origines, langues et sous-genres. En 2018, l'UNESCO l'a inscrit au patrimoine immatériel de l'Humanité.",
+        "histoire": "Le reggae, originaire de Jamaïque dans les années 1960, est le fruit de diverses influences musicales, notamment le ska, le rocksteady, le rhythm and blues, le jazz, la soul music, les musiques africaines et les chants nyabinghi. Il trouve également ses racines dans les rythmes coloniaux blancs et les formes culturelles du XIXe siècle des Caraïbes. Le reggae a évolué au fil du temps, passant par plusieurs phases, du 'early reggae' au 'early digital'. Il a gagné une dimension internationale grâce à des artistes tels que Bob Marley & The Wailers, les Gladiators et Black Uhuru à partir de 1973, tout en continuant à inspirer des styles musicaux dans le monde entier. Ainsi, le reggae est devenu une musique universelle, conforme à la vision de Bob Marley.",
+        "sousGenre": ["Roots reggae", "lovers rock", "reggae en Español"],
+        "instrument": ["Batterie", "basse", "chant", "conga", "guitare"]
+      }
+    },
+    {
+      "style": "RnB contemporain",
+      "infos": {
+        "titre": "RnB contemporain",
+        "photo": ["../../media/RnB-contemporain/Alicia_Keys.jpg", "../../media/RnB-contemporain/Tamar_Braxton.jpg"],
+        "alt": ["Alicia Keys", "Tamar Braxton"],
+        "contexte": "Le RnB contemporain, abrégé en R'n'B, est un genre musical né dans les années 1980 aux États-Unis. Il mélange des éléments du rhythm and blues, du hip-hop, de la soul, de la pop et du funk, devenant prédominant dans les années 2000.",
+        "histoire": "Le RnB, abréviation de musique populaire afro-américaine, est un genre musical axé sur la danse avec des ballades. Apparu aux États-Unis dans les années 1980, il est devenu très populaire dans les années 1990. Les chanteuses sont nombreuses, influencées par le Girl Power. Le RnB, originaire de la soul et du gospel, a influencé le rap et vice versa, ce qui rend parfois difficile de catégoriser certains artistes. La première chanson RnB notoire est 'Rock With You' de Michael Jackson en 1979. Fun Radio l'a qualifié de 'groove' entre 1999 et 2004.",
+        "sousGenre": ["Quiet storm", "RnB alternatif"],
+        "instrument": ["Synthétiseur", "clavier", "chant", "boîte à rythmes", "piano", "talkbox"]
+      }
+    },
+    {
+      "style": "Rock",
+      "infos": {
+        "titre": "Rock",
+        "photo": ["../../media/Rock/Chuck_Berry.jpg", "../../media/Rock/Elvis_Presley.jpg", "../../media/Rock/The_Beatles.jpg"],
+        "alt": ["Chuck Berry", "Elvis Presley", "The Beatles"],
+        "contexte": "Le RnB contemporain est un genre musical américain mêlant rhythm and blues, hip-hop, soul, pop, et funk. Il a émergé dans les années 1980, devenant dominant dans les années 2000. Le rock, apparu dans les années 1950 aux États-Unis, a des racines dans le rock 'n' roll, influencé par le rhythm and blues et la country. Il englobe divers sous-genres, notamment le psychédélique, le garage rock, le punk, le grunge, et le rock alternatif. Il est caractérisé par une mélodie vocale, des guitares, une basse et une batterie, souvent accompagnés d'autres instruments. Les paroles ont influencé des mouvements sociaux et culturels et ont été un moyen de révolte contre le conformisme.",
+        "histoire": "Le rock a évolué depuis ses débuts dans les années 1950 en mélangeant diverses influences musicales, donnant naissance à de multiples sous-genres et évolutions. Des artistes tels que Elvis Presley et Chuck Berry ont contribué à son essor initial. Dans les années 1960, les Beatles ont poussé le rock vers la pop, tandis que le mouvement punk a apporté une énergie rebelle dans les années 1970. Les années 1980 ont vu des changements dans le son du rock, avec des groupes comme Dire Straits et The Smiths. Les années 1990 ont été marquées par des influences bruitistes et des groupes tels que les Smashing Pumpkins. Au début des années 2000, le rock garage des années 1960 est revenu à la mode avec des groupes comme The White Stripes et The Strokes. Le rock a continué à évoluer avec des influences indie, folk, et d'autres genres. Cependant, ces dernières années, le rock a perdu de sa prédominance, et les frontières entre les genres musicaux se sont estompées, reflétant une diversité musicale croissante. Selon Rolling Stone en 2022, le rock et la pop ont évolué et continuent de se redéfinir constamment.",
+        "sousGenre": ["Art rock", "garage rock", "glam rock", "grunge", "hard rock", "heavy metal", "krautrock", "punk rock", "rockabilly", "rock alternatif", "rock expérimental", "rock progressif", "rock psychédélique", "rock sudiste", "soft rock", "surf rock", "Afro Rock", "Rock créole"],
+        "instrument": ["Guitare électrique", "basse", "batterie", "piano", "chant", "claviers"]
+      }
+    },
+    {
+      "style": "Tekno",
+      "infos": {
+        "titre": "Tekno",
+        "photo": ["../../media/Tekno/Scooter.jpg", "../../media/Tekno/Gesaffelstein.jpg"],
+        "alt": ["Scooter", "Gesaffelstein"],
+        "contexte": "La tekno, parfois appelée freetekno, est un sous-genre rapide de la musique techno, joué principalement lors des free parties en Europe. Elle se distingue par son rythme plus rapide, variant de 150 à 185 bpm, et une grosse caisse répétitive, contrairement à la techno qui se situe entre 130 et 150 bpm. Bien que la distorsion de la grosse caisse soit moins fréquente que dans le hardcore, certains producteurs incorporent des éléments trance en raison des liens étroits entre la sous-culture tekno et la psytrance. Le terme 'tekno' est utilisé pour différencier ce genre de la techno traditionnelle.",
+        "histoire": "La Tekno, émergeant dans les années 1990, s'inspire du Teknival et du rap en croissance. Elle fusionne hardcore, rave, jungle et techno, produite avec divers outils, y compris des ordinateurs portables. Évoluant en de multiples sous-genres comme le hardtek, elle provient de toute l'Europe. Les artistes, tels que Spiral Tribe, suivent une idéologie non commerciale, utilisent des pseudonymes et encouragent la distribution gratuite, rappelant un 'retour aux sources'. Des labels clés comprennent Hokus Pokus, Tek No Logique, Narkotek, et Astrofonik.",
+        "sousGenre": ["Jungletek", "Raggatek"],
+        "instrument": ["boîtes à rythmes", "synthétiseurs", "claviers", "séquenceurs audio/MIDI", "trackers"]
+      }
+    }
+]
+  

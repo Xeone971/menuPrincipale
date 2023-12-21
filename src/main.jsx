@@ -5,6 +5,10 @@ import Test from './components/AnimeDebut/animeDebut'
 import Carou from './components/Carousal/Carousel'
 // import Menu from './components/Carousal/menu';
 import './index.scss'
+import { Navigate } from 'react-router-dom';
+import InfoStyle from './components/pages/InfoStyle';
+import Menu from './components/pages/Menu/Menu';
+
 
 // ReactDOM.createRoot(document.getElementById('root')).render(
 //   <React.StrictMode>
@@ -24,21 +28,23 @@ const routes = [
   {
     path: "/Carou",
     element: <Carou />
+  },
+  {
+    path: "/menu",
+    element: <Menu />
+  },
+  {
+    path: "/infos/:style",
+    element: <InfoStyle />
+  },
+  {
+    path: "/contact",
+    element: <Menu />
+  },
+  {
+    path:"*",
+    element:<Navigate to="/" replace />
   }
-  // },
-  // {
-  //   path: "/contact",
-  //   element: <Menu />
-  // }
-  
-  // {
-  //   path: "/contact",
-  //   element: <Menu />
-  // },
-  // {
-  //   path:"*",
-  //   element:<Navigate to="/" replace />
-  // }
 ];
 
 const router = createBrowserRouter(routes);

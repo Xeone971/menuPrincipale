@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#container-modal-left {
+  grid-template-columns: 1fr;
+  justify-items: center;
+  background-color: #DADADA;
+}
+
+.container-info-gauche-titre {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  margin-top: 2em;
+  align-items: center;
+  background: none;
+  border: solid 15px #353535;
+  border-radius: 25px;
+  width: 50%;
+  font-family: "obvia-expanded";
+}
+
+#info-gauche-titre {
+  color: #353535;
+  font-size: 3.5em;
+  text-align: center;
+  margin: 0.5em;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.container-list{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  align-items: center;
+  background: none;
+  border: solid 15px #353535;
+  border-radius: 25px;
+  width: 50%;
+  font-family: "obvia-expanded";
+}
+
+.instrument-list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+.instrument-item {
+  width: 50%; /* Chaque élément occupe la moitié de la largeur */
+  box-sizing: border-box;
+  padding: 0.5em;
+  color: #353535;
+  font-size: 2.5em;
+  /* Autres styles pour les éléments individuels */
+}
+
+.two-columns {
+  width: 50%; /* À partir du 6ème élément, occupe toute la largeur */
+}

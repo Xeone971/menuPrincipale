@@ -174,11 +174,11 @@ ul {
   background: #fff3;
 }
 
-li {
+/* li {
   flex: 0 0 200px;
   background: var(--accent);
   margin: 0 20px 0 0;
-}
+} */
 
 li:last-of-type {
   margin: 0;
@@ -203,7 +203,7 @@ li:last-of-type {
   fill: var(--accent);
 }
 
-.box {
+.box2 {
   position: absolute;
   border-radius: 50%;
   left: 0;
