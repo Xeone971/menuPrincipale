@@ -20,7 +20,7 @@ const Carousel = ({ Data }) => {
   const [dragStart, setDragStart] = useState(0);
   const [dragDelta, setDragDelta] = useState(0);
   // const contentRef = useRef(null);
-
+// to change circle of carou
   const nextBtn = () => {
     if (LeftId === Data.length - 1) {
       setLeftId(0);
@@ -58,7 +58,7 @@ const Carousel = ({ Data }) => {
       setRightId(RightId - 1);
     }
   };
-
+// fuction for touching interactions
   const handleTouchStart = (e) => {
     setIsDragging(true);
     setDragStart(e.touches[0].clientX);
@@ -86,6 +86,7 @@ const Carousel = ({ Data }) => {
     // contentRef.current.style.transform = 'translateX(0)';
   };
   const navigate = useNavigate();
+  // animation and switching page
   const handleAnimationAndRedirect = (text) => {
     
   // Code pour lancer l'animation avant la redirection
@@ -112,32 +113,7 @@ const Carousel = ({ Data }) => {
   );
 };
 
-
-  // const handleDragStart = (e) => {
-  //   setIsDragging(true);
-  //   setDragStart(e.clientX);
-  // };
-
-  // const handleDragMove = (e) => {
-  //   if (isDragging) {
-  //     const delta = e.clientX - dragStart;
-  //     setDragDelta(delta);
-  //     contentRef.current.style.transform = `translateX(${delta}px)`;
-  //   }
-  // };
-
-  // const handleDragEnd = () => {
-  //   setIsDragging(false);
-  //   if (Math.abs(dragDelta) > 180) {
-  //     if (dragDelta > 0) {
-  //       nextBtn();
-  //     } else {
-  //       prevBtn();
-  //     }
-  //   }
-  //   contentRef.current.style.transform = 'translateX(0)';
-  // };
-
+// parameters of carou element
   const variants = {
     center: {
       x: '0rem',
@@ -189,7 +165,7 @@ const Carousel = ({ Data }) => {
       opacity: 0,
     },
   };
-
+// return carousel
   return (
     <motion.div className="carousel-wrapper">
       <motion.div
@@ -271,23 +247,7 @@ const Carousel = ({ Data }) => {
 
 
 const Carou = () =>{
-  // const CarouselData = [
-  //   'https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=662&q=80',
-  //   'https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=689&q=80',
-  //   'https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80',
-  //   'https://images.unsplash.com/photo-1588943211346-0908a1fb0b01?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80',
-  //   'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80',
-  //   'https://images.unsplash.com/photo-1537151625747-768eb6cf92b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=685&q=80',
-  // ]
-  // const CarouselData = [
-  //   "Blues", "Chanson française", "Dubstep", "Drum and bass", "Easy listening",
-  //   "Electronic dance music", "Electronica", "Funk", "Gospel", "Heavy metal",
-  //   "Jazz", "Musique classique", "Musique country", "Musique électronique",
-  //   "Musique expérimentale", "Musique folk", "Musique instrumentale", "Musique latine",
-  //   "Musique soul", "Musiques du monde", "New age", "Pop", "Rap", "Reggae",
-  //   "RnB contemporain", "Rock", "Tekno"
-  // ];
-
+  //data caroussel
   const CarouselData = [
     {
       text: "Blues",
@@ -393,10 +353,10 @@ const Carou = () =>{
       text: "Tekno",
       image: "../../media/Tekno/Scooter.jpg"
     }
-    // Ajoutez d'autres genres ici avec leurs noms et URLs d'image correspondantes
+    
   ];
   const [IsActive, setIsActive] = useState(true)
-  
+  // Renders a container component for a carousel using framer-motion for animations
   return (
     <div className="App">
       <motion.div className="carousel"

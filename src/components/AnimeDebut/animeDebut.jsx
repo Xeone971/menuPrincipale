@@ -1,3 +1,4 @@
+// Import necessary libraries and components from respective paths
 import * as React from "react";
 import "./styles.css";
 import { useState } from 'react'
@@ -8,6 +9,7 @@ import { motion, useMotionValue, useTransform, animate } from "framer-motion";
 import { getIndex, useFlubber } from "./use-flubber";
 
 // Paths taken from https://github.com/veltman/flubber/blob/master/demos/basic-svg.html
+// Define various SVG path strings for different shapes/icons
 export const star =
   "M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z";
 export const heart =
@@ -26,10 +28,11 @@ export const roundedSquare =
   "M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z";
 export const trianglePath = "M12 2 L22 22 L2 22 Z";
 
-
+// Define an array containing different SVG paths and corresponding colors
 const paths = [circle, trianglePath, roundedSquare, note];
 const colors = ["#000000", "#000000", "#000000", "#00cc88"];
 
+// Function to render SVG shapes with motion and interactivity
 function Svg() {
   document.body.style.backgroundColor = "white";
   const [pathIndex, setPathIndex] = useState(0);
@@ -41,6 +44,7 @@ function Svg() {
   };
   const h = "900";
   React.useEffect(() => {
+        // Animates the path transitions based on path index change
     const animation = animate(progress, pathIndex, {
       duration: 1.7,
       ease: "easeInOut",
@@ -53,10 +57,10 @@ function Svg() {
         }
       }
     });
-
+    // Cleanup animation on component unmount
     return () => animation.stop();
   }, [pathIndex]);
-
+// Renders the SVG element with motion effects
   return (
     <svg id="svg" width="400" height="400" onClick={handleClick}>
       <g transform="translate(10 10) scale(17 17)">
@@ -65,7 +69,7 @@ function Svg() {
     </svg>
   );
 }
-
+// Function to create an animated div element using motion
 function getMotionDivToAnimate() {
   return (
     <motion.div
@@ -80,7 +84,7 @@ function getMotionDivToAnimate() {
   );
 }
 
-  
+  // Test component that renders the SVG and handles visibility and navigation
 const Test = () =>{
     const [isNodeVisible, setIsNodeVisible] = useState(false);
     const navigate = useNavigate();
@@ -101,7 +105,5 @@ const Test = () =>{
 }
 
 
-      
-
-
+// Export the Test component
 export default Test;
